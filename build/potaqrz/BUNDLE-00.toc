@@ -1,0 +1,3 @@
+([('potaqrz',
+   '/Users/jackokorn/Programming/adicreator/dist/potaqrz',
+   'EXECUTABLE')],)
